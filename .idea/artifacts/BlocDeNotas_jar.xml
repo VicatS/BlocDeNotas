@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BlocDeNotas:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BlocDeNotas_jar</output-path>
+    <root id="archive" name="BlocDeNotas.jar">
+      <element id="module-output" name="BlocDeNotas" />
+    </root>
+  </artifact>
+</component>
